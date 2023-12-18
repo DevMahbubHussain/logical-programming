@@ -2,9 +2,9 @@
 Logical Programming Using Python &amp; C#
 
 
-
-# python -m venv my_env
-# .\my_env\Scripts\activate
+# create virtual envirnment
+ python -m venv my_env
+.\my_env\Scripts\activate
 
 
 # Activity In LBP:
