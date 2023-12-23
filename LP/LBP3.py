@@ -20,11 +20,6 @@ if (isLeapYear(year)):
 else:
     print("False")
 
-
-
-
-
-
 # implemented on C#
 '''
 static void Main(string[] args)
